@@ -1,0 +1,24 @@
+{
+  "name": "mongoNote2",
+  "version": "1.0.0",
+  "description": "經由前面新增的資料，資料庫內共有 3 筆資料，現在就來針對這 3 筆資料做查詢吧。",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiYun0912/Mongoose-Note-Part2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeiYun0912/Mongoose-Note-Part2/issues"
+  },
+  "homepage": "https://github.com/WeiYun0912/Mongoose-Note-Part2#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  }
+}
